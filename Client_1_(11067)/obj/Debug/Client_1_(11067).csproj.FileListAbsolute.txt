@@ -1,0 +1,12 @@
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\bin\Debug\Client_1_(11067).exe.config
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\bin\Debug\Client_1_(11067).exe
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\bin\Debug\Client_1_(11067).pdb
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).csproj.AssemblyReference.cache
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).csproj.SuggestedBindingRedirects.cache
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1__11067_.Form1.resources
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1__11067_.Form2.resources
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1__11067_.Properties.Resources.resources
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).csproj.GenerateResource.cache
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).csproj.CoreCompileInputs.cache
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).exe
+C:\Users\muxxa\Source\Repos\Client_1_(11067)\Client_1_(11067)\obj\Debug\Client_1_(11067).pdb
